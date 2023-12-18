@@ -1,0 +1,20 @@
+body
+{
+    background-color: beige ;
+    color: green;
+}
+#keret
+{
+    border: 2px solid black;
+    width: 30%;
+}
+#th
+{
+    width: 30%;
+    justify-content: center;
+}
+td
+{
+    width: 30%;
+    justify-content: center;
+}
